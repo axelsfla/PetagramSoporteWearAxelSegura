@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "22442814624",
+    "firebase_url": "https://petagram-8da7c.firebaseio.com",
+    "project_id": "petagram-8da7c",
+    "storage_bucket": "petagram-8da7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22442814624:android:41bc66fa1b0b1c5b",
+        "android_client_info": {
+          "package_name": "com.sacbe.coursera.notificacionfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22442814624-bbrrt7ukvfin0sgovl96cufdto6jgcr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sacbe.coursera.notificacionfirebase",
+            "certificate_hash": "7B687E3D5CDC1F391E3FC0C24F44602C3B03D217"
+          }
+        },
+        {
+          "client_id": "22442814624-stngbg91okob7kfmpcoqbd8p2njf5r52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFXGcdktBaoRgPF0uzLuvpIvyKLGnjJUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22442814624-stngbg91okob7kfmpcoqbd8p2njf5r52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22442814624:android:0f34435b424dba13",
+        "android_client_info": {
+          "package_name": "com.coursera.sacbe.petagramaxelsegura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22442814624-ljfvk3df3igsoq6fr4v23vacikfannm0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coursera.sacbe.petagramaxelsegura",
+            "certificate_hash": "7B687E3D5CDC1F391E3FC0C24F44602C3B03D217"
+          }
+        },
+        {
+          "client_id": "22442814624-stngbg91okob7kfmpcoqbd8p2njf5r52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFXGcdktBaoRgPF0uzLuvpIvyKLGnjJUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22442814624-stngbg91okob7kfmpcoqbd8p2njf5r52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

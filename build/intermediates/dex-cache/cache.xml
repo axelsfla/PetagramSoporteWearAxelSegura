@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_10decc8ca328ef7682027039f42479e61dd41801.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_6f62f4424b470501eb566021338f86a15776aaf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_fd097cfcb148c6128748418a0b0ae6520ce2665e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_62b2d173ab7ba669c9e328987e30b264321c6644.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_b01249edd8e52bb22f202c62ad1186a79c5178dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_2fa74227667ec1cc3cc81d66af0e52e1df67416d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-mail\1.5.5\53a2f927b235acb565dbe9314ececfb7e6d43020\android-mail-1.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\android-mail-1.5.5_01a5c3800322a96cbc0989bb2d44a0728ab2b013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_19ae340e8689259e9546724c2652a4fb8b267879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_42879285fbface273c536d93aad96eeef6dc19fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_7929b61012c62ab6e3a5ed3a9a4abb5528f9d29d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_b913f332192e9fa96de9945b1c31302a037caa90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_690297f20b4875cea0d1cc48b58132abd3cdd3f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_8935e1ac0bc1f4ea43b6b068394bfe31f819adda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_c0de08e3d8fecd96d26d08399edf6de5ca0bd526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_c21ede8da0dfeaf9ac173c0c4232ed94e329a6a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_0a5c40d11b56bcb3abad831b593bd0791247e262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_cbff174db7b601ab56ab02959f9cff4ff4599e45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_77c66c04ad8f15a644cee64613040ed43d377297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.mikhaellopez-circularimageview-3.0.2_e6cb11a4aadbee5e7ff9c292fab213f252aa8212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_95fa86315df0d9358ef635b8105f6868d5a71481.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_1c03f54e96aacc68de4122c1636e871f4cefa575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_ee5eef064a19b7ab6d3e6ee19699b5bbfb982fce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_d3deeb09ee92c213788df10d596cbf668308af9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\gson-2.7_324672192835f84549de2e9295cadb3e1ebcee05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.0_a1bc7f86dcfa2fe3e6141ace567ac01215f6fb52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_876797af2d516f56e0f60e52ff0fcd9d3f266d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_3439e34c905ecce73dd11d765b10d6ee210c0f0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_ef2be33f97aad2200cb64684949dfb636d9ebded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\okio-1.8.0_8e8e20f01a8e6cdd7488d035d254154d4f288d6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_bd6a91daf682f4e35b8dbc687fb0aa9b80f4a62a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_f5ef3e92da402ddccbc2aac83b70f9ac4a9430c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-activation\1.5.5\5442d5e05808145434b750c9f8a0c3f537383c5a\android-activation-1.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\android-activation-1.5.5_20a63c26f289a5f6c3305d84cefc12143384dac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_5e350e537fdf525ba3844ea04c41b81f4bf14345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="C:\Users\Sacbe\Documents\Axel\AndroidStudio\PetagramFirebaseAxelSegura\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.6.1_f10992b5f6e0704e61656712762ef95218e391f0.jar" />
+    </item>
+
+</items>

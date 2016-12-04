@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.coursera.sacbe.petagramaxelsegura.DetalleMascota"
+    >
+
+    <include android:id="@+id/miActionBar"
+        layout="@layout/actionbar"
+        >
+    </include>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgvFoto"
+        android:src="@drawable/unam_pumas"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvNombre"
+        android:text="@string/pNombre"
+        android:textStyle="bold"
+        android:textSize="@dimen/nombre_mascota"
+        android:layout_gravity="center_horizontal"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/margin_top"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imgvRating"
+            android:src="@mipmap/ic_raiting"
+            android:layout_gravity="center_horizontal"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvRating"
+            android:layout_below="@+id/tvRaza"
+            android:text="@string/pRating"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/margin_left"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvRaza"
+            android:layout_below="@+id/tvRaza"
+            android:text="@string/pRaza"
+            android:layout_gravity="center_vertical"
+            android:textSize="@dimen/raza"
+            android:layout_marginLeft="@dimen/margin_left"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/margin_top"
+
+        >
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

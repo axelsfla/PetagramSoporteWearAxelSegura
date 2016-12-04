@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mContact"
+        android:title="@string/item_contact"
+        android:orderInCategory="100"
+        >
+    </item>
+    <item
+        android:id="@+id/mAbout"
+        android:title="@string/item_about"
+        android:orderInCategory="101">
+    </item>
+    <item
+        android:id="@+id/mConfig"
+        android:title="@string/item_config"
+        android:orderInCategory="103">
+    </item>
+    <item
+        android:id="@+id/mRecibirNotificaciones"
+        android:title="@string/item_recibir_notificaciones"
+        android:orderInCategory="104">
+    </item>
+    <item
+        android:id="@+id/mFavoritos"
+        android:icon="@mipmap/ic_fivestart"
+        android:title="@string/item_fav"
+        android:orderInCategory="102"
+        app:showAsAction="always"
+        />
+</menu>

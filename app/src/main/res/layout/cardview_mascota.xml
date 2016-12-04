@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cvContacto"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:layout_marginBottom="@dimen/activity_vertical_margin"
+    card_view:cardCornerRadius="@dimen/corner_cardview_radius"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="7dp">
+
+        <ImageView
+            android:id="@+id/imgFotoCV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/unam_pumas"
+            android:layout_gravity="center_horizontal"
+            android:scaleType="centerCrop"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnLike"
+                android:layout_gravity="center_vertical"
+                android:background="@mipmap/ic_like"
+                />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/margin_left">
+                <TextView
+                    android:id="@+id/tvNombreCV"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pNombre"
+                    android:textSize="@dimen/nombre_cardview"
+                    android:textStyle="bold">
+                </TextView>
+
+                <TextView
+                    android:id="@+id/tvRazaCV"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pRaza">
+                </TextView>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="right"
+                android:gravity="right"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tvRatingCV"
+                    android:text="@string/pRating"
+                    android:textSize="@dimen/nombre_cardview"
+                    android:textStyle="bold"
+                    android:layout_gravity="center_vertical"
+                    />
+                <ImageButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btnRainting"
+                    android:background="@mipmap/ic_raiting"
+                    />
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>

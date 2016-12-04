@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="pNombre">pNombre</string>
+    <string name="pRaza">pRaza</string>
+    <string name="pRating">pRating</string>
+    <string name="pFoto">pFoto</string>
+    <string name="titulo_favoritos">Mascotas Favoritas</string>
+    <string name="titulo_detalle">Detalle mascota</string>
+    <string name="item_contact">Contacto</string>
+    <string name="item_about">Acerca de</string>
+    <string name="item_fav">Favoritos</string>
+    <string name="nombreCompleto">Nombre completo</string>
+    <string name="email">E-mail</string>
+    <string name="comentario">Comentario</string>
+    <string name="texto_boton_enviar">Enviar comentario</string>
+    <string name="err_msg_nombreCompleto">Introduce tu nombre</string>
+    <string name="err_msg_email">Introduce tu correo electrónico</string>
+    <string name="err_msg_email_valido">Introduce un correo electrónico válido</string>
+    <string name="err_msg_comentario">Introduce tu comentario</string>
+    <string name="pNombreDev">Axel Segura</string>
+    <string name="pNombreUniversidad">Universidad Nacional Autónoma de México</string>
+    <string name="pIngenieria">Ingeniería en computación</string>
+    <string name="pEmailDev">axelsfla@hotmail.com</string>
+    <string name="pFacIngenieria">Facultad de Ingeniería</string>
+    <string name="pUrl">pUrl</string>
+    <string name="pLikes">pLikes</string>
+    <string name="nombrePerfil">Nombre del Perfil en Instagram</string>
+    <string name="texto_boton_guardar">Guardar cuenta</string>
+    <string name="item_config">Configurar cuenta</string>
+    <string name="err_msg_nombrePerfil">Introduce tu nombre</string>
+    <string name="pNombrePerfil">pNombrePerfil</string>
+    <string name="cuenta_actual">Cuenta actual:</string>
+    <string name="cuentaInstagramDefault">axelsfla</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_recibir_notificaciones">Recibir notificaciones</string>
+    <string name="usuario_registrado">Usuario registrado:</string>
+    <string name="pViewPage">pViewPage</string>
+    <string name="texto_accion_toque">Devuelve el toque</string>
+    <string name="toque_animal">TOQUE_ANIMAL</string>
+    <string name="ver_mi_perfil">Ver mi perfil</string>
+    <string name="texto_accion_perfil">Ver mi perfil</string>
+    <string name="texto_accion_follow_unfollow">Follow/Unfollow</string>
+    <string name="texto_accion_ver_usuario">Ver usuario</string>
+    <string name="follow_unfollow">FOLLOW_UNFOLLOW</string>
+    <string name="ver_perfil">VER_PERFIL</string>
+    <string name="ver_usuario">VER_USUARIO</string>
+    <string name="id_instagram_from">idInstagramFrom</string>
+    <string name="pIdInstagramFrom">pIdInstagramFrom</string>
+    <string name="pUsuarioInstagramFrom">pUsuarioInstagramFrom</string>
+    <string name="id_usario_instagram_from">idUsuarioInstagramFrom</string>
+    <string name="IdInstagramDefault">3978956593</string>
+
+</resources>
